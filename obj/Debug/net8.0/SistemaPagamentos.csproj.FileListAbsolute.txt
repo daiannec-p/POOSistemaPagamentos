@@ -1,0 +1,14 @@
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.exe
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.deps.json
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.runtimeconfig.json
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.dll
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.pdb
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.AssemblyInfoInputs.cache
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.AssemblyInfo.cs
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.dll
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\refint\SistemaPagamentos.dll
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.pdb
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.genruntimeconfig.cache
+C:\Users\daianne\OneDrive\WoMakers\C\POO\Trabalhos\Individual\SistemaPagamentos\obj\Debug\net8.0\ref\SistemaPagamentos.dll
